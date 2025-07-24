@@ -1,4 +1,4 @@
-# 📹 Север Связь - коммерческой проект
+# 📹 Север Связь — коммерческой проект
 
 [![Демо](https://img.shields.io/badge/-ДЕМО-0054A6?style=for-the-badge)](https://ivkovalevv.github.io/cctv/)
 [![Исходники](https://img.shields.io/badge/-КОД-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivkovalevv/cctv)
